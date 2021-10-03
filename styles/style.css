@@ -1,0 +1,34 @@
+html{
+    background-color: #e8ecaf;
+}
+
+h1{
+    font-size: 48px;
+	font-weight: bold;
+	color: #60bd15
+}
+
+header{
+    width: 100%;
+    height: 40px; 
+    text-align: center;
+    padding: 10px 11px;
+    background-color: #74726a;
+}
+
+.photo{
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    height: 40px; 
+    text-align: center;
+    position: absolute;
+    bottom: 0%;
+    padding: 10px 0px;
+    background-color: #cab64a;
+}
+.footer-text {
+    color: #fff;
+}
